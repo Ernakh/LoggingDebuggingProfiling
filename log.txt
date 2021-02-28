@@ -1,0 +1,40 @@
+fev. 28, 2021 5:33:57 PM LoggingDebuggingProfiling.MainClass main
+WARNING: mensagem de alerta/cuidado
+fev. 28, 2021 5:33:57 PM LoggingDebuggingProfiling.MainClass main
+SEVERE: mensagem de alerta severo
+fev. 28, 2021 5:35:25 PM LoggingDebuggingProfiling.MainClass main
+WARNING: mensagem de alerta/cuidado
+fev. 28, 2021 5:35:25 PM LoggingDebuggingProfiling.MainClass main
+SEVERE: mensagem de alerta severo
+fev. 28, 2021 5:37:59 PM LoggingDebuggingProfiling.MainClass main
+WARNING: mensagem de alerta/cuidado
+fev. 28, 2021 5:37:59 PM LoggingDebuggingProfiling.MainClass main
+SEVERE: mensagem de alerta severo
+fev. 28, 2021 5:38:56 PM LoggingDebuggingProfiling.MainClass main
+WARNING: mensagem de alerta/cuidado
+fev. 28, 2021 5:39:02 PM LoggingDebuggingProfiling.MainClass main
+SEVERE: mensagem de alerta severo
+fev. 28, 2021 5:43:26 PM LoggingDebuggingProfiling.MainClass main
+WARNING: mensagem de alerta/cuidado
+fev. 28, 2021 5:43:26 PM LoggingDebuggingProfiling.MainClass main
+SEVERE: mensagem de alerta severo
+fev. 28, 2021 6:07:34 PM LoggingDebuggingProfiling.MainClass main
+WARNING: mensagem de alerta/cuidado
+fev. 28, 2021 6:07:34 PM LoggingDebuggingProfiling.MainClass main
+SEVERE: mensagem de alerta severo
+fev. 28, 2021 6:09:06 PM LoggingDebuggingProfiling.MainClass main
+WARNING: mensagem de alerta/cuidado
+fev. 28, 2021 6:09:06 PM LoggingDebuggingProfiling.MainClass main
+SEVERE: mensagem de alerta severo
+fev. 28, 2021 6:09:54 PM LoggingDebuggingProfiling.MainClass main
+WARNING: mensagem de alerta/cuidado
+fev. 28, 2021 6:09:55 PM LoggingDebuggingProfiling.MainClass main
+SEVERE: mensagem de alerta severo
+fev. 28, 2021 6:10:58 PM LoggingDebuggingProfiling.MainClass main
+WARNING: mensagem de alerta/cuidado
+fev. 28, 2021 6:10:58 PM LoggingDebuggingProfiling.MainClass main
+SEVERE: mensagem de alerta severo
+fev. 28, 2021 6:15:27 PM LoggingDebuggingProfiling.MainClass main
+WARNING: mensagem de alerta/cuidado
+fev. 28, 2021 6:15:27 PM LoggingDebuggingProfiling.MainClass main
+SEVERE: mensagem de alerta severo
